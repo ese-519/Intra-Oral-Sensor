@@ -3,19 +3,18 @@ PROJECT NAME
 
 **University of Pennsylvania, ESE 519: Real Time and Embedded Systems**
 
-* TEAM MEMBER NAMES
+* Team Member: Placebo
 * [Blog](https://devpost.com/software/project-name) (TODO: Link to devpost submission)
 
-### DESCRIPTION AND GOALS
-(TODO: Add a brief description of the project and Final Goals)
-
 ### VIDEO
-[![](images/Thumb.jpg)](https://www.youtube.com/watch?v=vgEyvazwrU8)
+[![](images/IMG_9743.JPG)]https://www.youtube.com/watch?v=HlDqCCFK9PE
 
-### IMAGES and GIFs
-Add images and screenshot of your product, user iterface, etc. Animated GIFs of User interfaces would be preferred.
-
-![](images/animated.gif)
-
-### BUILD INSTRUCTIONS
-TODO: Steps to follow for anyone to use this code
+![]
+Function explanations:
+| Buttons | 
+White button is for decreasing distractor distance.
+Black button is for increasing distractor distance.
+Green button is for committing distractor distance. 
+Red button is for immediately shutting off motor moving.
+| Pressure sensor |
+Wrapping in upper left soft pencil. When force exerting on pressure sensor, motor rotation speed would decrease. Larger the force is, slower would the sWhen force is released, motor rotate at normalized speed.
