@@ -1,7 +1,7 @@
-PROJECT NAME
+Motorized Cranial Vault Distractor
 ============
 
-**University of Pennsylvania, ESE 519: Real Time and Embedded Systems**
+**University of Pennsylvania, project for ESE 519: Real Time and Embedded Systems**
 
 ### Link to devpost
 https://devpost.com/software/motorized-cranial-vault-distractor-3ocgtp
