@@ -7,4 +7,4 @@ Motorized Cranial Vault Distractor
 https://devpost.com/software/motorized-cranial-vault-distractor-3ocgtp
 
 ### Getting started
-rebuild our hardware, load the software into the arduino, and refer to the report for more information.
+Rebuild our hardware, load the code into the arduino, and refer to the report for more information.
