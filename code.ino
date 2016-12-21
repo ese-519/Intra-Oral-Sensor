@@ -52,11 +52,11 @@ void setup() {
 	  // put your setup code here, to run once:
 	  // pin5 PD4 ICP1
           
-	  //pinMode(5, INPUT);
-	  //TCCR1B |= 1 << 7;   //Noise
-	  //TCCR1B |= 1 << ICES1; // zero - falling edge   one - rising edge
+	  pinMode(5, INPUT);
+	  TCCR1B |= 1 << 7;   //Noise
+	  TCCR1B |= 1 << ICES1; // zero - falling edge   one - rising edge
 	  TCNT1 = 0x00; //clear timer
-	  //TIFR1 |= 1 << ICF1 ; // clear input capture flag
+	  TIFR1 |= 1 << ICF1 ; // clear input capture flag
           
 
 	  //Serial.begin(9600);
